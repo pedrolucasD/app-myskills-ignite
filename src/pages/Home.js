@@ -28,7 +28,7 @@ export function Home() {
           <Text style={styles.buttonText}>Add</Text>
         </TouchableOpacity>
 
-        <Text style={[styles.title, { marginTop: 50 }]}>
+        <Text style={[styles.title, { marginTop: 40 }]}>
           My Skills
         </Text>
       </View>
